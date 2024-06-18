@@ -1,0 +1,201 @@
+model_name,price,mileage,type_of_bike,weight_in_kg,acceleration_speed,top_speed
+Gravton Motors Quanta,99000,320,Electric Bike,100,4.2,70
+Simple Energy One,109999,236,Electric Bike,110,3.6,100
+Okaya Classiq,69900,200,Electric Bike,95,N/A,25
+Oben Electric Rorr,102999,200,Electric Bike,120,3,100
+Ola Electric S1,85099,181,Electric Bike,121,2.9,116
+Ola Electric S1 Pro,120149,181,Electric Bike,125,2.9,116
+Revolt RV300,114264,180,Electric Bike,101,4,65
+Okinawa Praise,71990,170,Electric Bike,96,9.43,78
+Hero Electric NYX HX,67540,165,Electric Bike,73,3.3,42
+Crayon Motors Envy,53000,160,Electric Bike,100,N/A,25
+22Kymco Flow,74740,160,Electric Bike,85,N/A,60
+Okinawa Okhi 90,103866,160,Electric Bike,96,5,90
+Revolt RV400,129463,150,Electric Bike,108,4,65
+Kabira Mobility KM 4000,136990,150,Electric Bike,150,3.1,120
+One Moto Electa,199000,150,Electric Bike,115,3.3,85
+Odysse Evoqis,157000,140,Electric Bike,200,4.2,80
+Okinawa i-Praise,108749,139,Electric Bike,150,9.43,75
+Li-ions Elektrik Spock,65000,130,Electric Bike,90,3.9,45
+Tork Motors Kratos,102499,120,Electric Bike,120,4,100
+Kabira Mobility KM 3000,126990,120,Electric Bike,150,3.3,100
+EeVe Soul,140000,120,Electric Bike,140,8,55
+BGauss D15,99999,115,Electric Bike,107,7,60
+Nexzu Mobility Dextro,47000,110,Electric Bike,62,N/A,35
+BGauss A2,52499,110,Electric Bike,88,N/A,25
+Nexzu Mobility Dextro +,66500,110,Electric Bike,62,N/A,35
+Hero Electric Photon HX,74240,108,Electric Bike,87,9.58,45
+Bajaj CT 110,46413,104,Petrol Bike,117,3,90
+Atumobile Atum 1.0,50000,100,Electric Bike,108,N/A,25
+Okinawa Ridge +,64998,100,Electric Bike,96,,45
+Boom Motors Corbett-14,86999,100,Electric Bike,90,,55
+Earth Energy EV Glyde +,92000,100,Electric Bike,110,,90
+Ather 450,118995,100,Electric Bike,108,3.3,80
+Bajaj Platina 100,52915,96.9,Petrol Bike,117,3,90
+Bajaj Chetak,100000,95,Electric Bike,100,4.5,80
+Bajaj CT 100,40794,89.5,Petrol Bike,114,3.3,90
+Hero HF Deluxe i3s,59800,88.5,Petrol Bike,110,3.6,90
+TVS Star City +,65865,86,Petrol Bike,116,3.2,90
+Hero Electric Flash LX,59640,85,Electric Bike,69,10,42
+Hero Electric Atria LX,66640,85,Electric Bike,69,N/A,25
+Ampere Zeal Ex,74489,85,Electric Bike,78,11,50
+Hero Passion Pro i3S,67400,84,Petrol Bike,117,6,90
+Bounce Infinity E1,45099,83,Electric Bike,94,8,65
+Hero HF Deluxe,48950,83,Petrol Bike,109,7,85
+Hero Electric Optima HX,55580,82,Electric Bike,73,8,42
+Polarity Executive,38000,80,Electric Bike,55,N/A,40
+Polarity Sport,40000,80,Electric Bike,55,N/A,45
+Bajaj Platina 110,65930,80,Petrol Bike,108,5.9,90
+Gemopai Astrid Lite,84787,80,Electric Bike,96,7.39,65
+Kawasaki KLX 110,299500,80,Petrol Bike,76,N/A,50
+TVS Sport,52500,76.4,Petrol Bike,110,3,90
+Hero Splendor iSmart,65950,75,Petrol Bike,116,6,92
+Odysse V2,75000,75,Electric Bike,75,N/A,25
+Ampere Magnus Pro,79966,75,Electric Bike,94,10,55
+TVS iQube,166358,75,Electric Bike,118,4.2,78
+Honda CD 110 Dream,65248,74,Petrol Bike,109,5.1,86
+Honda Livo,70799,74,Petrol Bike,115,5,86
+TVS Victor,54042,72,Petrol Bike,112,6,94
+Hero HF 100,49400,70,Petrol Bike,110,7.7,90
+Odysse Racer,59500,70,Electric Bike,100,8,45
+BGauss B8,62999,70,Electric Bike,88,11,50
+Hero Splendor +,69380,70,Petrol Bike,110,7.5,93
+Ampere Zeal,74490,70,Electric Bike,75,13.8,55
+TVS Radeon,59942,69,Petrol Bike,116,6,95
+Hero Pleasure + 110,61900,69,Petrol Bike,104,9,77
+TVS XL 100,40990,67,Petrol Bike,88,13,60
+TVS Raider,84573,67,Petrol Bike,123,3,100
+Yamaha Fascino 125,70000,66,Petrol Bike,99,6.9,90
+Yamaha Ray-ZR 125FI,73330,66,Petrol Bike,99,6.87,91
+Hero Splendor Pro,49598,65,Petrol Bike,112,5.5,87
+TVS Scooty Pep +,52554,65,Petrol Bike,95,8,65
+Hero Maestro Edge,65900,65,Petrol Bike,112,5,80
+Honda CB Shine,72787,65,Petrol Bike,114,3,100
+Honda SP 125,78381,65,Petrol Bike,117,3.2,100
+Bajaj Pulsar 150,95872,65,Petrol Bike,144,9,112
+Suzuki New Access 125,72600,64,Petrol Bike,103,4,90
+Suzuki Gixxer,118800,64,Petrol Bike,140,3,115
+TVS Scooty Zest 110,59925,62,Petrol Bike,97,8,80
+TVS Jupiter,70085,62,Petrol Bike,109,4.58,85
+Bajaj Pulsar 125,72122,62,Petrol Bike,140,3,105
+Honda CB Unicorn 160,98931,62,Petrol Bike,134,4.3,101.9
+Lohia Omastar,40850,60,Electric Bike,66,N/A,25
+Okinawa R30,58992,60,Electric Bike,150,N/A,25
+Okinawa Dual,58998,60,Electric Bike,96,N/A,25
+Hero Super Splendor,73900,60,Petrol Bike,123,4.7,100
+Hero Glamour 125,74900,60,Petrol Bike,126,4.6,91
+TVS Ntorq 125,77106,60,Petrol Bike,118,6,95
+Kawasaki KLX 140G,406600,60,Petrol Bike,99,,70
+Evolet Pony,39499,55,Electric Bike,82,N/A,25
+Evolet Polo,44499,55,Electric Bike,82,N/A,25
+Evolet Derby,46499,55,Electric Bike,82,N/A,25
+Ampere Reo Elite,47264,55,Electric Bike,68,N/A,25
+Honda Dio,64510,55,Petrol Bike,103,6.36,83
+Suzuki Avenis,86500,55,Petrol Bike,106,8,90
+Hero Xtreme 160R,111610,55,Petrol Bike,139,3,115
+Kawasaki KX 100,487800,55,Petrol Bike,77,N/A,75
+Hero Destini 125,67990,54,Petrol Bike,113,5,80
+Honda Grazia,82566,54,Petrol Bike,107,5.9,92
+Suzuki Burgman,84300,53.5,Petrol Bike,110,6,96
+Okinawa Lite,59990,50,Electric Bike,150,N/A,25
+TVS Jupiter 125,73400,50,Petrol Bike,109,4.7,90
+Bajaj Pulsar NS 125,93818,50,Petrol Bike,144,3,105
+Hero Maestro Edge 125,73450,49,Petrol Bike,110,6,90
+TVS Apache RTR 160,112940,48,Petrol Bike,139,2.9,107
+Yamaha MT-15,144900,48,Petrol Bike,138,2.4,130
+Yamaha MT-15 V2.0,160900,48,Petrol Bike,139,2.26,140
+TVS Apache RTR 180,103950,47,Petrol Bike,139,4,113
+Suzuki Gixxer SF,129300,47,Petrol Bike,146,3,127
+Yamaha R15S V3.0,158939,47,Petrol Bike,142,2.3,136
+Ampere V48,38719,45,Electric Bike,84,N/A,25
+Ampere Reo,44838,45,Electric Bike,70,N/A,25
+Ampere Magnus,45999,45,Electric Bike,94,N/A,25
+Honda Activa 6G,69645,45,Petrol Bike,107,7,85
+Honda Activa 125 FI,72637,45,Petrol Bike,111,5.7,93.84
+Piaggio Vespa,91492,45,Petrol Bike,114,3.9,90
+Yamaha FZ V3.0 FI,99200,45,Petrol Bike,137,2.8,112
+Bajaj Avenger Street 160,101094,45,Petrol Bike,156,3.2,105
+Bajaj Avenger Street 220,103891,45,Petrol Bike,150,2.3,120
+Bajaj Pulsar 180,108000,45,Petrol Bike,151,2.5,122
+Bajaj Pulsar NS160,110086,45,Petrol Bike,151,3,120
+Honda X-Blade,111895,45,Petrol Bike,143,2.7,120
+Yamaha FZ S V3.0 FI,115900,45,Petrol Bike,135,3,115
+Yamaha FZ-X,116800,45,Petrol Bike,139,3,115
+Piaggio Vespa 150,122664,45,Petrol Bike,114,5.8,90
+Royal Enfield Bullet 350,127094,45,Petrol Bike,183,3.5,110
+Yamaha Aerox 155,129000,45,Petrol Bike,122,3.1,120
+TVS Apache RTR 165 RP,145001,45,Petrol Bike,148,3.9,123
+Yamaha YZF R15 V4.0,170800,45,Petrol Bike,142,2.2,140
+Royal Enfield Himalayan,210784,45,Petrol Bike,191,3,145
+Suzuki Intruder,126500,44,Petrol Bike,152,3.2,115
+Hero XPulse 200T,115800,43,Petrol Bike,154,2.8,115
+Yamaha FZ 25,134800,43,Petrol Bike,153,3,134
+Yamaha FZS 25,143300,43,Petrol Bike,154,3,134
+Yamaha Fazer 25,144180,43,Petrol Bike,154,3,134
+Hero XPulse 200,118230,42,Petrol Bike,157,3.3,134
+TVS Apache RTR 200 FI E100,120000,42,Petrol Bike,152,N/A,129
+Honda H Ness CB 350,196239,42,Petrol Bike,181,3.2,125
+Royal Enfield Meteor 350,205844,41.88,Petrol Bike,183,3.8,120
+KTM RC 125,180538,41.3,Petrol Bike,135,2.9,120
+Aprilia SR 150,75733,40,Petrol Bike,122,3.29,95
+Aprilia Storm 125,85431,40,Petrol Bike,122,6,90
+Aprilia SR 125,107595,40,Petrol Bike,122,6,90
+Aprilia SXR 125,115000,40,Petrol Bike,129,6,90
+Bajaj Avenger Cruise 220,122630,40,Petrol Bike,159,3.1,120
+Bajaj Pulsar 220,123245,40,Petrol Bike,155,1.7,120
+Hero XPulse 200 4V,130150,40,Petrol Bike,158,2.3,115
+Honda Hornet 2.0,132238,40,Petrol Bike,142,2.67,130
+Bajaj Pulsar F250,140000,40,Petrol Bike,164,3.16,130
+Honda CB200X,144500,40,Petrol Bike,147,3.2,130
+Suzuki Gixxer SF 250,181900,38.5,Petrol Bike,161,1.92,117
+Suzuki Gixxer 250,171200,38,Petrol Bike,156,1.98,122.73
+JAWA Forty Two,171415,37.5,Petrol Bike,170,3.1,120
+JAWA 300,180415,37.5,Petrol Bike,170,3,120
+Royal Enfield Classic 350,184374,37,Petrol Bike,195,2.8,115
+JAWA 42,193142,37,Petrol Bike,170,3.23,129.46
+Benelli Leoncino 250,250000,37,Petrol Bike,162,1.99,154
+Hero Xtreme 200S,120214,36.9,Petrol Bike,155,3,115
+Aprilia SR 160,117494,35,Petrol Bike,122,3.46,95
+Aprilia SXR 160,126000,35,Petrol Bike,129,3.61,100
+Bajaj Pulsar 200 NS,131219,35,Petrol Bike,152,2.21,136
+Bajaj Pulsar N250,138000,35,Petrol Bike,162,1.99,130
+Bajaj Pulsar RS 200,152179,35,Petrol Bike,165,3.8,140.8
+Bajaj Dominar 250,154176,35,Petrol Bike,180,1.83,132
+KTM 200 Duke,190000,35,Petrol Bike,159,1.7,142
+Honda CB 350 RS,196006,35,Petrol Bike,179,4,135
+JAWA Perak,208187,35,Petrol Bike,175,1.98,140
+KTM RC 200,213000,35,Petrol Bike,151,1.98,170
+Husqvarna Vitpilen 250,215000,35,Petrol Bike,152,1.45,157
+Husqvarna Svartpilen 250,218000,35,Petrol Bike,154,1.45,157
+KTM 250 Adventure,242000,35,Petrol Bike,177,3.2,140
+KTM 390 Duke,287545,35,Petrol Bike,167,2.19,167
+KTM RC 390,314000,35,Petrol Bike,147,2.24,200
+KTM 125 Duke,176000,34.5,Petrol Bike,148,3.2,120
+Cleveland Cyclewerks Ace Deluxe,223000,33.98,Petrol Bike,133,3.6,113
+Suzuki V-Strom SX 250,211600,33,Petrol Bike,167,3,150
+CFMoto 300NK,229000,33,Petrol Bike,151,3.4,150
+TVS Apache RTR 200 4V,129315,32,Petrol Bike,149,3.8,127
+Benelli Imperiale 400,189799,31.25,Petrol Bike,205,3.06,120
+Benelli TRK 502,486000,30.97,Petrol Bike,235,2,160
+Honda CB300R,277000,30.2,Petrol Bike,146,2.3,160
+TVS Apache RTR 160 4V,111565,30,Petrol Bike,145,2.48,113
+Yamaha R15 V3.0,157600,30,Petrol Bike,142,1.8,136
+Yezdi Roadster,198142,30,Petrol Bike,184,2.5,140
+Royal Enfield Scram 411,203000,30,Petrol Bike,185,3.9,140
+Yezdi Scrambler,204900,30,Petrol Bike,182,2.5,140
+Yezdi Adventure,209900,30,Petrol Bike,188,2.5,142
+KTM 250 Duke,228736,30,Petrol Bike,169,2.4,142
+Cleveland Cyclewerks Misfit,249000,30,Petrol Bike,133,N/A,110
+BMW G 310 R,250000,30,Petrol Bike,158,2,153
+TVS Apache RR 310,259000,30,Petrol Bike,170,2,160
+BMW G 310 GS,290000,30,Petrol Bike,169,2.3,141
+Honda CB500X,687386,28.6,Petrol Bike,199,1.7,182
+BMW C 400 GT,995000,28.6,Petrol Bike,202,3,139
+Royal Enfield Classic Chrome,188868,27,Petrol Bike,194,4,130
+Bajaj Dominar 400 [2019],202755,27,Petrol Bike,184,1.7,156
+Triumph Bonneville T100,949000,26.3,Petrol Bike,228,1.6,160
+Kawasaki Z250,308000,26,Petrol Bike,168,1.01,200
+Kawasaki Ninja 300,337000,26,Petrol Bike,179,2.01,182
+FB Mondial HPS 300,337000,26,Petrol Bike,135,3,141
+Royal Enfield Interceptor 650,281518,25.5,Petrol Bike,202,1.9,170
+Royal Enfield Continental GT 650,298079,25.5,Petrol Bike,198,1.79,161
